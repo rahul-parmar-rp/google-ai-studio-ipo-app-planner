@@ -1,0 +1,6 @@
+{
+  "name": "IPO Application Planner",
+  "description": "Multi-account IPO bidding orchestrator, quota manager, and liquidity funding tracker for families and investors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
